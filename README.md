@@ -1,2 +1,2 @@
 # WebSocket-based-Client-to-Client-by-Server-Communication-System.
-we making text comunication system that can client 1 can comunocate to client 2 (in text / messages) by using webshocket server. In Python.
+This repository contains a Python-based WebSocket text communication system that enables clients to client communicate with each other in real-time via a central WebSocket server. The system allows for bidirectional text messaging between connected clients, facilitating instant communication over a network.
